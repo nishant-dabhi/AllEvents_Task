@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">134740923705</string>
+    <string name="google_api_key" translatable="false">AIzaSyCr8k5GqaJbV_L7yfvPtywi984DeFkNEMg</string>
+    <string name="google_app_id" translatable="false">1:134740923705:android:a5563e009a18c0e9b584e8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCr8k5GqaJbV_L7yfvPtywi984DeFkNEMg</string>
+    <string name="google_storage_bucket" translatable="false">allevents-task-f83c4.firebasestorage.app</string>
+    <string name="project_id" translatable="false">allevents-task-f83c4</string>
+</resources>
